@@ -15,11 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{762A4547-5C69-4834-9E3D-3F46E61EA06D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{BED5A732-5F69-4C01-8FAC-BF01AA5D330B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{BED5A732-5F69-4C01-8FAC-BF01AA5D330B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksşyonlar\Koleksiyonlar.csproj", "{F689F0E2-F32E-4DCA-9636-740A731E2901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksşyonlar\Koleksiyonlar.csproj", "{F689F0E2-F32E-4DCA-9636-740A731E2901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericsİntro", "Genericsİntro\Genericsİntro.csproj", "{7EB9D01B-F865-4452-8209-62E57BC9110D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Genericsİntro", "Genericsİntro\Genericsİntro.csproj", "{7EB9D01B-F865-4452-8209-62E57BC9110D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oop2", "Oop2\Oop2.csproj", "{5522FF0A-AF58-483D-AD9C-673321898C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{F88C7B9A-C747-4085-99C7-30F11F36D51E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{7EB9D01B-F865-4452-8209-62E57BC9110D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EB9D01B-F865-4452-8209-62E57BC9110D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EB9D01B-F865-4452-8209-62E57BC9110D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5522FF0A-AF58-483D-AD9C-673321898C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5522FF0A-AF58-483D-AD9C-673321898C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5522FF0A-AF58-483D-AD9C-673321898C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5522FF0A-AF58-483D-AD9C-673321898C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88C7B9A-C747-4085-99C7-30F11F36D51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88C7B9A-C747-4085-99C7-30F11F36D51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88C7B9A-C747-4085-99C7-30F11F36D51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88C7B9A-C747-4085-99C7-30F11F36D51E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
